@@ -32,7 +32,7 @@
     "grim": "1.5.0",
     "jasmine-json": "~0.0",
     "jasmine-tagged": "^1.1.4",
-    "jquery": "3.0.0",
+    "jquery": "3.4.0",
     "key-path-helpers": "^0.4.0",
     "less-cache": "0.22",
     "marked": "^4.0.10",
